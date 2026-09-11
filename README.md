@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Thiago Hinobu Teixeira 👋
+# Olá, me chamo Thiago Hinobu Teixeira 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Suporte+T%C3%A9cnico+na+Ing%C3%A1+Digital;Focado+em+PHP+%26+Laravel;Construindo+solu%C3%A7%C3%B5es+robustas)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 - 🔭 Atualmente trabalhando como **Suporte Técnico na Ingá Digital**.
 - 📚 Aprofundando estudos em desenvolvimento **Backend**, APIs e arquitetura de sistemas.
 - ⚡ Foco principal no ecossistema **PHP & Laravel**, containerização com **Docker** e modelagem relacional com **MySQL**.
-- 🎯 Buscando constante evolução técnica e boas práticas de desenvolvimento (Clean Code, SOLID).
+- 🎯 Buscando constante evolução técnica e boas práticas de desenvolvimento.
 
 ---
 
