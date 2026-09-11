@@ -33,7 +33,3 @@
 </details>
 
 <br/>
-
-<div align="center">
-  <sub>Configurado com foco no tema Dark / Minimalista para o perfil <b>hiinin</b> 🚀</sub>
-</div>
