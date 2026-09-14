@@ -29,9 +29,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-📫 **[GitHub](https://github.com/hiinin)**
-
-</div>
