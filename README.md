@@ -2,7 +2,7 @@
 
 # Olá, me chamo Thiago Hinobu Teixeira 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Suporte+Técnico+na+Ingá+Digital;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;PHP+%26+Laravel;Construindo+solu%C3%A7%C3%B5es+robustas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Suporte+Técnico+na+Ingá+Digital;Formado+em+ADS+e+Engenharia+de+Software;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;PHP+%26+Laravel;Construindo+solu%C3%A7%C3%B5es+robustas)](https://git.io/typing-svg)
 
 </div>
 
