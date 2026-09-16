@@ -11,9 +11,9 @@
 ### 👨‍💻 Sobre Mim
 
 * 🔭 **Suporte Técnico na Ingá Digital** desde maio de 2025.
-* 💻 Foco em **desenvolvimento Backend, APIs e sistemas web**.
+* 💻 Foco atualmente em **desenvolvimento Backend, APIs e sistemas web**.
 * ⚡ Trabalhando principalmente com **PHP, Laravel, MySQL e Docker**.
-* 📚 Bacharelado em **Engenharia de Software** — 2023–2026.
+* 📚 Bacharelado em **Engenharia de Software** e **ADS** — 2023–2026.
 * 🎯 Sempre buscando evoluir e aprimorar minhas habilidades.
 
 ---
