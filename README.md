@@ -8,13 +8,6 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
-
-* 💻 Foco atualmente em **desenvolvimento Backend, APIs e sistemas web**.
-* ⚡ Trabalhando principalmente com **PHP, Laravel, MySQL e Docker**.
-* 📚 Bacharelado em **Engenharia de Software** e **ADS** — 2023–2026.
-* 🎯 Sempre buscando evoluir e aprimorar minhas habilidades.
-
 ---
 
 ### 🛠️ Tecnologias que pratico
